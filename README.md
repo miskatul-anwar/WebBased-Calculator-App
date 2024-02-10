@@ -8,6 +8,7 @@ Required libraries:
 Installation:
 
 ```Bash
+#incase you have not installed Flask
 pip install Flask
 ```
 
